@@ -1,1 +1,1 @@
-# cs201
+# The repository contains all sample codes that used by [CS201] Introduction to Programming in Python.
